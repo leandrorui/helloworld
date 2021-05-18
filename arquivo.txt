@@ -1,3 +1,5 @@
 Criando arquivo
 
 Caramba! Foi difícil. Precisei criar par de chaves ssh, e adicionar. Parece meio óbvio pra alguns, mas pra mim foi punk. Acho que se eu fizer mais umas duas ou três vezes, fica mais sussa. Talvez eu destrua as chaves e refaça o processo.
+
+Em 17/05, as 21:24 - treinando
